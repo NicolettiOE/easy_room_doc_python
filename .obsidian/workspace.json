@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "336695e83fa5e4c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDLC - Ciclo de vida de desenvolvimento/2 - Agile methodology (Detailed).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDLC - Ciclo de vida de desenvolvimento/1 - Requirements Gathering (Detailed).md",
+                "file": "SDLC - Ciclo de vida de desenvolvimento/2 - Agile methodology (Detailed).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDLC - Ciclo de vida de desenvolvimento/1 - Requirements Gathering (Detailed).md",
+                "file": "SDLC - Ciclo de vida de desenvolvimento/2 - Agile methodology (Detailed).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDLC - Ciclo de vida de desenvolvimento/1 - Requirements Gathering (Detailed).md"
+                "file": "SDLC - Ciclo de vida de desenvolvimento/2 - Agile methodology (Detailed).md"
               }
             }
           }
@@ -159,11 +171,12 @@
       "command-palette:Abrir paleta de comando": false
     }
   },
-  "active": "37cfe668b88f8f49",
+  "active": "336695e83fa5e4c1",
   "lastOpenFiles": [
-    "SDLC - Ciclo de vida de desenvolvimento/0 - Overview.md",
     "SDLC - Ciclo de vida de desenvolvimento/1 - Requirements Gathering (Detailed).md",
-    "Sem título",
+    "SDLC - Ciclo de vida de desenvolvimento/0 - Overview.md",
+    "SDLC - Ciclo de vida de desenvolvimento/2 - Agile methodology (Detailed).md",
+    "2 - Agile methodology (Detailed)",
     "README.md",
     "SDLC - Ciclo de vida de desenvolvimento"
   ]
